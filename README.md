@@ -1,7 +1,4 @@
 # Submission Reminder Application
-
-This is a simple shell-based submission project reminder tool designed for managing student assignment submissions.
-
 ## Application Overview
 
 The application is structured into:
